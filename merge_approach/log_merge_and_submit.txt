@@ -1,0 +1,1340 @@
+best_v3_epoch3_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.41564565954050564
+f1: old transform 0.4026868417713488
+f1: best1 0.40058314847595977
+transform Counter({'multi-sarcasm': 817, 'not-sarcasm': 768, 'image-sarcasm': 34})
+old transform Counter({'multi-sarcasm': 821, 'not-sarcasm': 792, 'image-sarcasm': 6})
+best1 Counter({'not-sarcasm': 891, 'multi-sarcasm': 722, 'image-sarcasm': 6})
+test
+transform Counter({'multi-sarcasm': 1007, 'not-sarcasm': 372, 'image-sarcasm': 34})
+old transform Counter({'multi-sarcasm': 1005, 'not-sarcasm': 406, 'image-sarcasm': 2})
+best1 Counter({'multi-sarcasm': 966, 'not-sarcasm': 445, 'image-sarcasm': 2})
+
+
+best_v2_epoch2_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.41456719348509175
+f1: old transform 0.4021248746753893
+f1: best1 0.3968347299954899
+transform Counter({'multi-sarcasm': 815, 'not-sarcasm': 771, 'image-sarcasm': 33})
+old transform Counter({'multi-sarcasm': 820, 'not-sarcasm': 792, 'image-sarcasm': 7})
+best1 Counter({'not-sarcasm': 889, 'multi-sarcasm': 723, 'image-sarcasm': 7})
+test
+transform Counter({'multi-sarcasm': 996, 'not-sarcasm': 382, 'image-sarcasm': 35})
+old transform Counter({'multi-sarcasm': 1004, 'not-sarcasm': 406, 'image-sarcasm': 3})
+best1 Counter({'multi-sarcasm': 950, 'not-sarcasm': 460, 'image-sarcasm': 3})
+
+
+best_v2_epoch3_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.4096622875518497
+f1: old transform 0.40254047360331713
+f1: best1 0.3850833800754242
+transform Counter({'multi-sarcasm': 813, 'not-sarcasm': 767, 'image-sarcasm': 39})
+old transform Counter({'multi-sarcasm': 811, 'not-sarcasm': 791, 'image-sarcasm': 17})
+best1 Counter({'not-sarcasm': 932, 'multi-sarcasm': 670, 'image-sarcasm': 17})
+test
+transform Counter({'multi-sarcasm': 988, 'not-sarcasm': 387, 'image-sarcasm': 38})
+old transform Counter({'multi-sarcasm': 999, 'not-sarcasm': 405, 'image-sarcasm': 9})
+best1 Counter({'multi-sarcasm': 902, 'not-sarcasm': 502, 'image-sarcasm': 9})
+
+
+best_v2_1_epoch3_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.4121560772521049
+f1: old transform 0.4047486690419378
+f1: best1 0.38873407930593556
+transform Counter({'multi-sarcasm': 812, 'not-sarcasm': 770, 'image-sarcasm': 37})
+old transform Counter({'multi-sarcasm': 814, 'not-sarcasm': 791, 'image-sarcasm': 14})
+best1 Counter({'not-sarcasm': 892, 'multi-sarcasm': 713, 'image-sarcasm': 14})
+test
+transform Counter({'multi-sarcasm': 991, 'not-sarcasm': 385, 'image-sarcasm': 37})
+old transform Counter({'multi-sarcasm': 1002, 'not-sarcasm': 405, 'image-sarcasm': 6})
+best1 Counter({'multi-sarcasm': 923, 'not-sarcasm': 484, 'image-sarcasm': 6})
+
+
+best_v1_epoch2_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.41382754363946395
+f1: old transform 0.4030389544474051
+f1: best1 0.3964140121252724
+transform Counter({'multi-sarcasm': 812, 'not-sarcasm': 774, 'image-sarcasm': 33})
+old transform Counter({'multi-sarcasm': 821, 'not-sarcasm': 792, 'image-sarcasm': 6})
+best1 Counter({'not-sarcasm': 875, 'multi-sarcasm': 738, 'image-sarcasm': 6})
+test
+transform Counter({'multi-sarcasm': 991, 'not-sarcasm': 389, 'image-sarcasm': 33})
+old transform Counter({'multi-sarcasm': 1006, 'not-sarcasm': 406, 'image-sarcasm': 1})
+best1 Counter({'multi-sarcasm': 939, 'not-sarcasm': 473, 'image-sarcasm': 1})
+
+
+best_v1_epoch3_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.4146094209719643
+f1: old transform 0.40672112721582687
+f1: best1 0.39510142887642014
+transform Counter({'multi-sarcasm': 799, 'not-sarcasm': 786, 'image-sarcasm': 34})
+old transform Counter({'multi-sarcasm': 816, 'not-sarcasm': 792, 'image-sarcasm': 11})
+best1 Counter({'not-sarcasm': 913, 'multi-sarcasm': 695, 'image-sarcasm': 11})
+test
+transform Counter({'multi-sarcasm': 985, 'not-sarcasm': 394, 'image-sarcasm': 34})
+old transform Counter({'multi-sarcasm': 998, 'not-sarcasm': 406, 'image-sarcasm': 9})
+best1 Counter({'multi-sarcasm': 917, 'not-sarcasm': 487, 'image-sarcasm': 9})
+
+
+best_v1_epoch4_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.4110736340735173
+f1: old transform 0.41099636739019074
+f1: best1 0.39150867865819283
+transform Counter({'multi-sarcasm': 798, 'not-sarcasm': 783, 'image-sarcasm': 38})
+old transform Counter({'multi-sarcasm': 808, 'not-sarcasm': 788, 'image-sarcasm': 23})
+best1 Counter({'not-sarcasm': 914, 'multi-sarcasm': 682, 'image-sarcasm': 23})
+test
+transform Counter({'multi-sarcasm': 983, 'not-sarcasm': 397, 'image-sarcasm': 33})
+old transform Counter({'multi-sarcasm': 992, 'not-sarcasm': 406, 'image-sarcasm': 15})
+best1 Counter({'multi-sarcasm': 881, 'not-sarcasm': 517, 'image-sarcasm': 15})
+
+
+best_v1_epoch5_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.4133821871660541
+f1: old transform 0.4133821871660541
+f1: best1 0.38899088761029815
+transform Counter({'multi-sarcasm': 793, 'not-sarcasm': 781, 'image-sarcasm': 44, 'text-sarcasm': 1})
+old transform Counter({'multi-sarcasm': 793, 'not-sarcasm': 781, 'image-sarcasm': 44, 'text-sarcasm': 1})
+best1 Counter({'not-sarcasm': 904, 'multi-sarcasm': 670, 'image-sarcasm': 44, 'text-sarcasm': 1})
+test
+transform Counter({'multi-sarcasm': 974, 'not-sarcasm': 404, 'image-sarcasm': 35})
+old transform Counter({'multi-sarcasm': 974, 'not-sarcasm': 404, 'image-sarcasm': 35})
+best1 Counter({'multi-sarcasm': 845, 'not-sarcasm': 533, 'image-sarcasm': 35})
+
+
+best_v1_1_epoch4_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.41437484403619496
+f1: old transform 0.4140210504501926
+f1: best1 0.39593192510498565
+transform Counter({'multi-sarcasm': 800, 'not-sarcasm': 776, 'image-sarcasm': 43})
+old transform Counter({'multi-sarcasm': 804, 'not-sarcasm': 788, 'image-sarcasm': 27})
+best1 Counter({'not-sarcasm': 916, 'multi-sarcasm': 676, 'image-sarcasm': 27})
+test
+transform Counter({'multi-sarcasm': 981, 'not-sarcasm': 396, 'image-sarcasm': 36})
+old transform Counter({'multi-sarcasm': 992, 'not-sarcasm': 406, 'image-sarcasm': 15})
+best1 Counter({'multi-sarcasm': 874, 'not-sarcasm': 524, 'image-sarcasm': 15})
+
+
+best_v3_epoch4_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.4138433603726024
+f1: old transform 0.403623998764685
+f1: best1 0.3991710058982487
+transform Counter({'multi-sarcasm': 830, 'not-sarcasm': 756, 'image-sarcasm': 33})
+old transform Counter({'multi-sarcasm': 822, 'not-sarcasm': 792, 'image-sarcasm': 5})
+best1 Counter({'not-sarcasm': 867, 'multi-sarcasm': 747, 'image-sarcasm': 5})
+test
+transform Counter({'multi-sarcasm': 1009, 'not-sarcasm': 370, 'image-sarcasm': 34})
+old transform Counter({'multi-sarcasm': 1006, 'not-sarcasm': 406, 'image-sarcasm': 1})
+best1 Counter({'multi-sarcasm': 978, 'not-sarcasm': 434, 'image-sarcasm': 1})
+
+
+best_v5_epoch7_best2_v1_epoch5_not_v1_epoch2
+best_v5_epoch7_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.42022792562420075
+f1: old transform 0.4226364737227476
+f1: best1 0.4056133491988473
+transform Counter({'multi-sarcasm': 834, 'not-sarcasm': 741, 'image-sarcasm': 44})
+old transform Counter({'multi-sarcasm': 814, 'not-sarcasm': 787, 'image-sarcasm': 18})
+best1 Counter({'not-sarcasm': 918, 'multi-sarcasm': 683, 'image-sarcasm': 18})
+test
+transform Counter({'multi-sarcasm': 998, 'not-sarcasm': 376, 'image-sarcasm': 39})
+old transform Counter({'multi-sarcasm': 1003, 'not-sarcasm': 404, 'image-sarcasm': 6})
+best1 Counter({'multi-sarcasm': 873, 'not-sarcasm': 534, 'image-sarcasm': 6})
+
+
+best_v6_epoch2_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.4138439564353487
+f1: old transform 0.39392815336391396
+f1: best1 0.3910729760959053
+transform Counter({'multi-sarcasm': 822, 'not-sarcasm': 763, 'image-sarcasm': 34})
+old transform Counter({'multi-sarcasm': 820, 'not-sarcasm': 792, 'image-sarcasm': 7})
+best1 Counter({'not-sarcasm': 869, 'multi-sarcasm': 743, 'image-sarcasm': 7})
+test
+transform Counter({'multi-sarcasm': 1004, 'not-sarcasm': 375, 'image-sarcasm': 34})
+old transform Counter({'multi-sarcasm': 1006, 'not-sarcasm': 406, 'image-sarcasm': 1})
+best1 Counter({'multi-sarcasm': 960, 'not-sarcasm': 452, 'image-sarcasm': 1})
+
+
+best_v6_epoch3_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.4133249857248491
+f1: old transform 0.4007662391506637
+f1: best1 0.388789465050035
+transform Counter({'multi-sarcasm': 821, 'not-sarcasm': 763, 'image-sarcasm': 35})
+old transform Counter({'multi-sarcasm': 819, 'not-sarcasm': 791, 'image-sarcasm': 9})
+best1 Counter({'not-sarcasm': 907, 'multi-sarcasm': 703, 'image-sarcasm': 9})
+test
+transform Counter({'multi-sarcasm': 995, 'not-sarcasm': 383, 'image-sarcasm': 35})
+old transform Counter({'multi-sarcasm': 1003, 'not-sarcasm': 406, 'image-sarcasm': 4})
+best1 Counter({'multi-sarcasm': 913, 'not-sarcasm': 496, 'image-sarcasm': 4})
+
+
+best_v1_1_epoch5_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.4105851800286029
+f1: old transform 0.4091567799969189
+f1: best1 0.3908204296601884
+transform Counter({'multi-sarcasm': 800, 'not-sarcasm': 777, 'image-sarcasm': 42})
+old transform Counter({'multi-sarcasm': 805, 'not-sarcasm': 789, 'image-sarcasm': 25})
+best1 Counter({'not-sarcasm': 935, 'multi-sarcasm': 659, 'image-sarcasm': 25})
+test
+transform Counter({'multi-sarcasm': 976, 'not-sarcasm': 397, 'image-sarcasm': 40})
+old transform Counter({'multi-sarcasm': 986, 'not-sarcasm': 406, 'image-sarcasm': 21})
+best1 Counter({'multi-sarcasm': 858, 'not-sarcasm': 534, 'image-sarcasm': 21})
+
+
+best_v2_epoch3_best2_v1_1_epoch5_not_v1_epoch2
+train
+f1: transform 0.4037070522982405
+f1: old transform 0.40254047360331713
+f1: best1 0.3850833800754242
+transform Counter({'multi-sarcasm': 825, 'not-sarcasm': 765, 'image-sarcasm': 29})
+old transform Counter({'multi-sarcasm': 811, 'not-sarcasm': 791, 'image-sarcasm': 17})
+best1 Counter({'not-sarcasm': 932, 'multi-sarcasm': 670, 'image-sarcasm': 17})
+test
+transform Counter({'multi-sarcasm': 1001, 'not-sarcasm': 386, 'image-sarcasm': 26})
+old transform Counter({'multi-sarcasm': 999, 'not-sarcasm': 405, 'image-sarcasm': 9})
+best1 Counter({'multi-sarcasm': 902, 'not-sarcasm': 502, 'image-sarcasm': 9})
+
+
+best_v2_epoch3_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.4096622875518497
+f1: old transform 0.40254047360331713
+f1: best1 0.3850833800754242
+transform Counter({'multi-sarcasm': 813, 'not-sarcasm': 767, 'image-sarcasm': 39})
+old transform Counter({'multi-sarcasm': 811, 'not-sarcasm': 791, 'image-sarcasm': 17})
+best1 Counter({'not-sarcasm': 932, 'multi-sarcasm': 670, 'image-sarcasm': 17})
+test
+transform Counter({'multi-sarcasm': 988, 'not-sarcasm': 387, 'image-sarcasm': 38})
+old transform Counter({'multi-sarcasm': 999, 'not-sarcasm': 405, 'image-sarcasm': 9})
+best1 Counter({'multi-sarcasm': 902, 'not-sarcasm': 502, 'image-sarcasm': 9})
+
+
+best_v1_1_epoch7_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.4145090439276486
+f1: old transform 0.4173923202309512
+f1: best1 0.3958880518931165
+transform Counter({'multi-sarcasm': 801, 'not-sarcasm': 773, 'image-sarcasm': 45})
+old transform Counter({'multi-sarcasm': 802, 'not-sarcasm': 786, 'image-sarcasm': 31})
+best1 Counter({'not-sarcasm': 935, 'multi-sarcasm': 653, 'image-sarcasm': 31})
+test
+transform Counter({'multi-sarcasm': 974, 'not-sarcasm': 397, 'image-sarcasm': 42})
+old transform Counter({'multi-sarcasm': 982, 'not-sarcasm': 406, 'image-sarcasm': 25})
+best1 Counter({'multi-sarcasm': 849, 'not-sarcasm': 539, 'image-sarcasm': 25})
+
+
+best_v1_1_epoch6_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.415077918268137
+f1: old transform 0.41400866530624314
+f1: best1 0.39193847527501935
+transform Counter({'multi-sarcasm': 801, 'not-sarcasm': 775, 'image-sarcasm': 43})
+old transform Counter({'multi-sarcasm': 805, 'not-sarcasm': 787, 'image-sarcasm': 27})
+best1 Counter({'not-sarcasm': 938, 'multi-sarcasm': 654, 'image-sarcasm': 27})
+test
+transform Counter({'multi-sarcasm': 978, 'not-sarcasm': 395, 'image-sarcasm': 40})
+old transform Counter({'multi-sarcasm': 986, 'not-sarcasm': 406, 'image-sarcasm': 21})
+best1 Counter({'multi-sarcasm': 853, 'not-sarcasm': 539, 'image-sarcasm': 21})
+
+
+best_v1_1_epoch5_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.4105851800286029
+f1: old transform 0.4091567799969189
+f1: best1 0.3908204296601884
+transform Counter({'multi-sarcasm': 800, 'not-sarcasm': 777, 'image-sarcasm': 42})
+old transform Counter({'multi-sarcasm': 805, 'not-sarcasm': 789, 'image-sarcasm': 25})
+best1 Counter({'not-sarcasm': 935, 'multi-sarcasm': 659, 'image-sarcasm': 25})
+test
+transform Counter({'multi-sarcasm': 976, 'not-sarcasm': 397, 'image-sarcasm': 40})
+old transform Counter({'multi-sarcasm': 986, 'not-sarcasm': 406, 'image-sarcasm': 21})
+best1 Counter({'multi-sarcasm': 858, 'not-sarcasm': 534, 'image-sarcasm': 21})
+
+
+best_v2_1_epoch3_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.4121560772521049
+f1: old transform 0.4047486690419378
+f1: best1 0.38873407930593556
+transform Counter({'multi-sarcasm': 812, 'not-sarcasm': 770, 'image-sarcasm': 37})
+old transform Counter({'multi-sarcasm': 814, 'not-sarcasm': 791, 'image-sarcasm': 14})
+best1 Counter({'not-sarcasm': 892, 'multi-sarcasm': 713, 'image-sarcasm': 14})
+test
+transform Counter({'multi-sarcasm': 991, 'not-sarcasm': 385, 'image-sarcasm': 37})
+old transform Counter({'multi-sarcasm': 1002, 'not-sarcasm': 405, 'image-sarcasm': 6})
+best1 Counter({'multi-sarcasm': 923, 'not-sarcasm': 484, 'image-sarcasm': 6})
+
+
+best_v2_1_epoch4_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.4113769297496534
+f1: old transform 0.4038767195844438
+f1: best1 0.3866261783134707
+transform Counter({'multi-sarcasm': 812, 'not-sarcasm': 769, 'image-sarcasm': 38})
+old transform Counter({'multi-sarcasm': 813, 'not-sarcasm': 791, 'image-sarcasm': 15})
+best1 Counter({'not-sarcasm': 909, 'multi-sarcasm': 695, 'image-sarcasm': 15})
+test
+transform Counter({'multi-sarcasm': 990, 'not-sarcasm': 385, 'image-sarcasm': 38})
+old transform Counter({'multi-sarcasm': 1000, 'not-sarcasm': 406, 'image-sarcasm': 7})
+best1 Counter({'multi-sarcasm': 908, 'not-sarcasm': 498, 'image-sarcasm': 7})
+
+
+best_v2_1_epoch5_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.4111057766169919
+f1: old transform 0.4047486690419378
+f1: best1 0.3850471298325261
+transform Counter({'multi-sarcasm': 816, 'not-sarcasm': 765, 'image-sarcasm': 38})
+old transform Counter({'multi-sarcasm': 814, 'not-sarcasm': 791, 'image-sarcasm': 14})
+best1 Counter({'not-sarcasm': 914, 'multi-sarcasm': 691, 'image-sarcasm': 14})
+test
+transform Counter({'multi-sarcasm': 990, 'not-sarcasm': 384, 'image-sarcasm': 39})
+old transform Counter({'multi-sarcasm': 999, 'not-sarcasm': 406, 'image-sarcasm': 8})
+best1 Counter({'multi-sarcasm': 899, 'not-sarcasm': 506, 'image-sarcasm': 8})
+
+
+best_v6_1_epoch2_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.4135417903471988
+f1: old transform 0.3866748462223122
+f1: best1 0.38145883234424593
+transform Counter({'multi-sarcasm': 823, 'not-sarcasm': 762, 'image-sarcasm': 34})
+old transform Counter({'multi-sarcasm': 822, 'not-sarcasm': 792, 'image-sarcasm': 5})
+best1 Counter({'not-sarcasm': 882, 'multi-sarcasm': 732, 'image-sarcasm': 5})
+test
+transform Counter({'multi-sarcasm': 1004, 'not-sarcasm': 376, 'image-sarcasm': 33})
+old transform Counter({'multi-sarcasm': 1007, 'not-sarcasm': 406})
+best1 Counter({'multi-sarcasm': 941, 'not-sarcasm': 472})
+
+
+best_v6_1_epoch3_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.4138343591008559
+f1: old transform 0.39392815336391396
+f1: best1 0.38727463543550167
+transform Counter({'multi-sarcasm': 823, 'not-sarcasm': 762, 'image-sarcasm': 34})
+old transform Counter({'multi-sarcasm': 820, 'not-sarcasm': 792, 'image-sarcasm': 7})
+best1 Counter({'not-sarcasm': 891, 'multi-sarcasm': 721, 'image-sarcasm': 7})
+test
+transform Counter({'multi-sarcasm': 1001, 'not-sarcasm': 378, 'image-sarcasm': 34})
+old transform Counter({'multi-sarcasm': 1006, 'not-sarcasm': 406, 'image-sarcasm': 1})
+best1 Counter({'multi-sarcasm': 942, 'not-sarcasm': 470, 'image-sarcasm': 1})
+
+
+best_v6_1_epoch4_best2_v1_epoch5_not_v1_epoch2
+train
+f1: transform 0.41185401882049344
+f1: old transform 0.39247712190526995
+f1: best1 0.38253904886744117
+transform Counter({'multi-sarcasm': 823, 'not-sarcasm': 760, 'image-sarcasm': 36})
+old transform Counter({'multi-sarcasm': 819, 'not-sarcasm': 791, 'image-sarcasm': 9})
+best1 Counter({'not-sarcasm': 910, 'multi-sarcasm': 700, 'image-sarcasm': 9})
+test
+transform Counter({'multi-sarcasm': 1000, 'not-sarcasm': 379, 'image-sarcasm': 34})
+old transform Counter({'multi-sarcasm': 1004, 'not-sarcasm': 406, 'image-sarcasm': 3})
+best1 Counter({'multi-sarcasm': 927, 'not-sarcasm': 483, 'image-sarcasm': 3})
+
+
+best_v6_1_epoch4_best2_v1_epoch5_not_v1_epoch2
+best_v6_1_epoch4_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.41185401882049344
+f1: transform 0.4156092054031162
+f1: old transform 0.39247712190526995
+f1: best1 0.38253904886744117
+transform Counter({'multi-sarcasm': 823, 'not-sarcasm': 760, 'image-sarcasm': 36})
+transform Counter({'multi-sarcasm': 810, 'not-sarcasm': 791, 'image-sarcasm': 18})
+old transform Counter({'multi-sarcasm': 819, 'not-sarcasm': 791, 'image-sarcasm': 9})
+best1 Counter({'not-sarcasm': 910, 'multi-sarcasm': 700, 'image-sarcasm': 9})
+test
+transform Counter({'multi-sarcasm': 1000, 'not-sarcasm': 379, 'image-sarcasm': 34})
+transform 2 Counter({'multi-sarcasm': 996, 'not-sarcasm': 406, 'image-sarcasm': 11})
+old transform Counter({'multi-sarcasm': 1004, 'not-sarcasm': 406, 'image-sarcasm': 3})
+best1 Counter({'multi-sarcasm': 927, 'not-sarcasm': 483, 'image-sarcasm': 3})
+
+
+best_v6_1_epoch4_best2_v1_epoch5_not_v1_epoch2
+best_v6_1_epoch4_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.41185401882049344
+f1: transform 0.41304070286748507
+f1: old transform 0.39247712190526995
+f1: best1 0.38253904886744117
+transform Counter({'multi-sarcasm': 823, 'not-sarcasm': 760, 'image-sarcasm': 36})
+transform 2 Counter({'multi-sarcasm': 807, 'not-sarcasm': 791, 'image-sarcasm': 21})
+old transform Counter({'multi-sarcasm': 819, 'not-sarcasm': 791, 'image-sarcasm': 9})
+best1 Counter({'not-sarcasm': 910, 'multi-sarcasm': 700, 'image-sarcasm': 9})
+test
+transform Counter({'multi-sarcasm': 1000, 'not-sarcasm': 379, 'image-sarcasm': 34})
+transform 2 Counter({'multi-sarcasm': 995, 'not-sarcasm': 406, 'image-sarcasm': 12})
+old transform Counter({'multi-sarcasm': 1004, 'not-sarcasm': 406, 'image-sarcasm': 3})
+best1 Counter({'multi-sarcasm': 927, 'not-sarcasm': 483, 'image-sarcasm': 3})
+
+
+best_v1_1_epoch2_best2_v1_epoch5_not_v1_epoch2
+best_v1_1_epoch2_best3_v1_1_epoch7_not_v1_epoch2
+best_v1_epoch2_best2_v1_epoch5_not_v1_epoch2
+best_v1_epoch2_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.41382754363946395
+f1: transform 0.4116937717587609
+f1: old transform 0.4030389544474051
+f1: best1 0.3964140121252724
+transform Counter({'multi-sarcasm': 812, 'not-sarcasm': 774, 'image-sarcasm': 33})
+transform 2 Counter({'multi-sarcasm': 813, 'not-sarcasm': 792, 'image-sarcasm': 14})
+old transform Counter({'multi-sarcasm': 821, 'not-sarcasm': 792, 'image-sarcasm': 6})
+best1 Counter({'not-sarcasm': 875, 'multi-sarcasm': 738, 'image-sarcasm': 6})
+test
+transform Counter({'multi-sarcasm': 991, 'not-sarcasm': 389, 'image-sarcasm': 33})
+transform 2 Counter({'multi-sarcasm': 998, 'not-sarcasm': 406, 'image-sarcasm': 9})
+old transform Counter({'multi-sarcasm': 1006, 'not-sarcasm': 406, 'image-sarcasm': 1})
+best1 Counter({'multi-sarcasm': 939, 'not-sarcasm': 473, 'image-sarcasm': 1})
+
+
+best_v2_epoch3_best2_v1_epoch5_not_v1_epoch2
+best_v2_epoch3_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.4096622875518497
+f1: transform 0.41364010374968246
+f1: old transform 0.40254047360331713
+f1: best1 0.3850833800754242
+transform Counter({'multi-sarcasm': 813, 'not-sarcasm': 767, 'image-sarcasm': 39})
+transform 2 Counter({'multi-sarcasm': 808, 'not-sarcasm': 791, 'image-sarcasm': 20})
+old transform Counter({'multi-sarcasm': 811, 'not-sarcasm': 791, 'image-sarcasm': 17})
+best1 Counter({'not-sarcasm': 932, 'multi-sarcasm': 670, 'image-sarcasm': 17})
+test
+transform Counter({'multi-sarcasm': 988, 'not-sarcasm': 387, 'image-sarcasm': 38})
+transform 2 Counter({'multi-sarcasm': 993, 'not-sarcasm': 405, 'image-sarcasm': 15})
+old transform Counter({'multi-sarcasm': 999, 'not-sarcasm': 405, 'image-sarcasm': 9})
+best1 Counter({'multi-sarcasm': 902, 'not-sarcasm': 502, 'image-sarcasm': 9})
+
+
+best_v2_epoch3_best2_v1_epoch5_not_v1_epoch2
+best_v2_epoch3_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.4096622875518497
+f1: transform 0.42150323748483354
+f1: old transform 0.40254047360331713
+f1: best1 0.3850833800754242
+transform Counter({'multi-sarcasm': 813, 'not-sarcasm': 767, 'image-sarcasm': 39})
+transform 2 Counter({'multi-sarcasm': 818, 'not-sarcasm': 779, 'image-sarcasm': 22})
+old transform Counter({'multi-sarcasm': 811, 'not-sarcasm': 791, 'image-sarcasm': 17})
+best1 Counter({'not-sarcasm': 932, 'multi-sarcasm': 670, 'image-sarcasm': 17})
+test
+transform Counter({'multi-sarcasm': 988, 'not-sarcasm': 387, 'image-sarcasm': 38})
+transform 2 Counter({'multi-sarcasm': 1000, 'not-sarcasm': 398, 'image-sarcasm': 15})
+old transform Counter({'multi-sarcasm': 999, 'not-sarcasm': 405, 'image-sarcasm': 9})
+best1 Counter({'multi-sarcasm': 902, 'not-sarcasm': 502, 'image-sarcasm': 9})
+
+
+best_v2_epoch3_best2_v1_epoch5_not_v1_epoch2
+best_v2_epoch3_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.4096622875518497
+f1: transform 0.42150323748483354
+f1: old transform 0.40254047360331713
+f1: best1 0.3850833800754242
+transform Counter({'multi-sarcasm': 813, 'not-sarcasm': 767, 'image-sarcasm': 39})
+transform 2 Counter({'multi-sarcasm': 818, 'not-sarcasm': 779, 'image-sarcasm': 22})
+old transform Counter({'multi-sarcasm': 811, 'not-sarcasm': 791, 'image-sarcasm': 17})
+best1 Counter({'not-sarcasm': 932, 'multi-sarcasm': 670, 'image-sarcasm': 17})
+test
+transform Counter({'multi-sarcasm': 988, 'not-sarcasm': 387, 'image-sarcasm': 38})
+transform 2 Counter({'multi-sarcasm': 1000, 'not-sarcasm': 398, 'image-sarcasm': 15})
+old transform Counter({'multi-sarcasm': 999, 'not-sarcasm': 405, 'image-sarcasm': 9})
+best1 Counter({'multi-sarcasm': 902, 'not-sarcasm': 502, 'image-sarcasm': 9})
+
+
+best_v1_1_epoch4_best2_v1_epoch5_not_v1_epoch2
+best_v1_1_epoch4_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.41437484403619496
+f1: transform 0.41991804898473484
+f1: old transform 0.4140210504501926
+f1: best1 0.39593192510498565
+transform Counter({'multi-sarcasm': 800, 'not-sarcasm': 776, 'image-sarcasm': 43})
+transform 2 Counter({'multi-sarcasm': 816, 'not-sarcasm': 773, 'image-sarcasm': 30})
+old transform Counter({'multi-sarcasm': 804, 'not-sarcasm': 788, 'image-sarcasm': 27})
+best1 Counter({'not-sarcasm': 916, 'multi-sarcasm': 676, 'image-sarcasm': 27})
+test
+transform Counter({'multi-sarcasm': 981, 'not-sarcasm': 396, 'image-sarcasm': 36})
+transform 2 Counter({'multi-sarcasm': 1000, 'not-sarcasm': 396, 'image-sarcasm': 17})
+old transform Counter({'multi-sarcasm': 992, 'not-sarcasm': 406, 'image-sarcasm': 15})
+best1 Counter({'multi-sarcasm': 874, 'not-sarcasm': 524, 'image-sarcasm': 15})
+
+
+best_v1_epoch2_best2_v1_epoch5_not_v1_epoch2
+best_v1_epoch2_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.41382754363946395
+f1: transform 0.4148564676692726
+f1: old transform 0.4030389544474051
+f1: best1 0.3964140121252724
+transform Counter({'multi-sarcasm': 812, 'not-sarcasm': 774, 'image-sarcasm': 33})
+transform 2 Counter({'multi-sarcasm': 826, 'not-sarcasm': 780, 'image-sarcasm': 13})
+old transform Counter({'multi-sarcasm': 821, 'not-sarcasm': 792, 'image-sarcasm': 6})
+best1 Counter({'not-sarcasm': 875, 'multi-sarcasm': 738, 'image-sarcasm': 6})
+test
+transform Counter({'multi-sarcasm': 991, 'not-sarcasm': 389, 'image-sarcasm': 33})
+transform 2 Counter({'multi-sarcasm': 1008, 'not-sarcasm': 397, 'image-sarcasm': 8})
+old transform Counter({'multi-sarcasm': 1006, 'not-sarcasm': 406, 'image-sarcasm': 1})
+best1 Counter({'multi-sarcasm': 939, 'not-sarcasm': 473, 'image-sarcasm': 1})
+
+
+best_v1_epoch3_best2_v1_epoch5_not_v1_epoch2
+best_v1_epoch3_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.4146094209719643
+f1: transform 0.41585299796956726
+f1: old transform 0.40672112721582687
+f1: best1 0.39510142887642014
+transform Counter({'multi-sarcasm': 799, 'not-sarcasm': 786, 'image-sarcasm': 34})
+transform 2 Counter({'multi-sarcasm': 822, 'not-sarcasm': 777, 'image-sarcasm': 20})
+old transform Counter({'multi-sarcasm': 816, 'not-sarcasm': 792, 'image-sarcasm': 11})
+best1 Counter({'not-sarcasm': 913, 'multi-sarcasm': 695, 'image-sarcasm': 11})
+test
+transform Counter({'multi-sarcasm': 985, 'not-sarcasm': 394, 'image-sarcasm': 34})
+transform 2 Counter({'multi-sarcasm': 1003, 'not-sarcasm': 397, 'image-sarcasm': 13})
+old transform Counter({'multi-sarcasm': 998, 'not-sarcasm': 406, 'image-sarcasm': 9})
+best1 Counter({'multi-sarcasm': 917, 'not-sarcasm': 487, 'image-sarcasm': 9})
+
+
+best_v1_epoch4_best2_v1_epoch5_not_v1_epoch2
+best_v1_epoch4_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.4110736340735173
+f1: transform 0.40634387215643253
+f1: old transform 0.41099636739019074
+f1: best1 0.39150867865819283
+transform Counter({'multi-sarcasm': 798, 'not-sarcasm': 783, 'image-sarcasm': 38})
+transform 2 Counter({'multi-sarcasm': 816, 'not-sarcasm': 762, 'image-sarcasm': 41})
+old transform Counter({'multi-sarcasm': 808, 'not-sarcasm': 788, 'image-sarcasm': 23})
+best1 Counter({'not-sarcasm': 914, 'multi-sarcasm': 682, 'image-sarcasm': 23})
+test
+transform Counter({'multi-sarcasm': 983, 'not-sarcasm': 397, 'image-sarcasm': 33})
+transform 2 Counter({'multi-sarcasm': 999, 'not-sarcasm': 393, 'image-sarcasm': 21})
+old transform Counter({'multi-sarcasm': 992, 'not-sarcasm': 406, 'image-sarcasm': 15})
+best1 Counter({'multi-sarcasm': 881, 'not-sarcasm': 517, 'image-sarcasm': 15})
+
+
+best_v1_1_epoch4_best2_v1_epoch5_not_v1_epoch2
+best_v1_1_epoch4_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.41437484403619496
+f1: transform 2 0.41991804898473484
+f1: old transform 0.4140210504501926
+f1: best1 0.39593192510498565
+transform Counter({'multi-sarcasm': 800, 'not-sarcasm': 776, 'image-sarcasm': 43})
+transform 2 Counter({'multi-sarcasm': 816, 'not-sarcasm': 773, 'image-sarcasm': 30})
+old transform Counter({'multi-sarcasm': 804, 'not-sarcasm': 788, 'image-sarcasm': 27})
+best1 Counter({'not-sarcasm': 916, 'multi-sarcasm': 676, 'image-sarcasm': 27})
+test
+transform Counter({'multi-sarcasm': 981, 'not-sarcasm': 396, 'image-sarcasm': 36})
+transform 2 Counter({'multi-sarcasm': 1000, 'not-sarcasm': 396, 'image-sarcasm': 17})
+old transform Counter({'multi-sarcasm': 992, 'not-sarcasm': 406, 'image-sarcasm': 15})
+best1 Counter({'multi-sarcasm': 874, 'not-sarcasm': 524, 'image-sarcasm': 15})
+
+
+best_v1_1_epoch5_best2_v1_epoch5_not_v1_epoch2
+best_v1_1_epoch5_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.4105851800286029
+f1: transform 2 0.4161901152909834
+f1: old transform 0.4091567799969189
+f1: best1 0.3908204296601884
+transform Counter({'multi-sarcasm': 800, 'not-sarcasm': 777, 'image-sarcasm': 42})
+transform 2 Counter({'multi-sarcasm': 817, 'not-sarcasm': 775, 'image-sarcasm': 27})
+old transform Counter({'multi-sarcasm': 805, 'not-sarcasm': 789, 'image-sarcasm': 25})
+best1 Counter({'not-sarcasm': 935, 'multi-sarcasm': 659, 'image-sarcasm': 25})
+test
+transform Counter({'multi-sarcasm': 976, 'not-sarcasm': 397, 'image-sarcasm': 40})
+transform 2 Counter({'multi-sarcasm': 995, 'not-sarcasm': 396, 'image-sarcasm': 22})
+old transform Counter({'multi-sarcasm': 986, 'not-sarcasm': 406, 'image-sarcasm': 21})
+best1 Counter({'multi-sarcasm': 858, 'not-sarcasm': 534, 'image-sarcasm': 21})
+
+
+best_v1_1_epoch6_best2_v1_epoch5_not_v1_epoch2
+best_v1_1_epoch6_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.415077918268137
+f1: transform 2 0.4208554255794468
+f1: old transform 0.41400866530624314
+f1: best1 0.39193847527501935
+transform Counter({'multi-sarcasm': 801, 'not-sarcasm': 775, 'image-sarcasm': 43})
+transform 2 Counter({'multi-sarcasm': 818, 'not-sarcasm': 772, 'image-sarcasm': 29})
+old transform Counter({'multi-sarcasm': 805, 'not-sarcasm': 787, 'image-sarcasm': 27})
+best1 Counter({'not-sarcasm': 938, 'multi-sarcasm': 654, 'image-sarcasm': 27})
+test
+transform Counter({'multi-sarcasm': 978, 'not-sarcasm': 395, 'image-sarcasm': 40})
+transform 2 Counter({'multi-sarcasm': 995, 'not-sarcasm': 398, 'image-sarcasm': 20})
+old transform Counter({'multi-sarcasm': 986, 'not-sarcasm': 406, 'image-sarcasm': 21})
+best1 Counter({'multi-sarcasm': 853, 'not-sarcasm': 539, 'image-sarcasm': 21})
+
+
+best_v1_1_epoch7_best2_v1_epoch5_not_v1_epoch2
+best_v1_1_epoch7_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.4145090439276486
+f1: transform 2 0.4192763105702792
+f1: old transform 0.4173923202309512
+f1: best1 0.3958880518931165
+transform Counter({'multi-sarcasm': 801, 'not-sarcasm': 773, 'image-sarcasm': 45})
+transform 2 Counter({'multi-sarcasm': 815, 'not-sarcasm': 773, 'image-sarcasm': 31})
+old transform Counter({'multi-sarcasm': 802, 'not-sarcasm': 786, 'image-sarcasm': 31})
+best1 Counter({'not-sarcasm': 935, 'multi-sarcasm': 653, 'image-sarcasm': 31})
+test
+transform Counter({'multi-sarcasm': 974, 'not-sarcasm': 397, 'image-sarcasm': 42})
+transform 2 Counter({'multi-sarcasm': 991, 'not-sarcasm': 397, 'image-sarcasm': 25})
+old transform Counter({'multi-sarcasm': 982, 'not-sarcasm': 406, 'image-sarcasm': 25})
+best1 Counter({'multi-sarcasm': 849, 'not-sarcasm': 539, 'image-sarcasm': 25})
+
+
+best_v1_epoch5_best2_v1_epoch5_not_v1_epoch2
+best_v1_epoch5_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.4133821871660541
+f1: transform 2 0.398935420345198
+f1: old transform 0.4133821871660541
+f1: best1 0.38899088761029815
+transform Counter({'multi-sarcasm': 793, 'not-sarcasm': 781, 'image-sarcasm': 44, 'text-sarcasm': 1})
+transform 2 Counter({'multi-sarcasm': 805, 'not-sarcasm': 730, 'image-sarcasm': 83, 'text-sarcasm': 1})
+old transform Counter({'multi-sarcasm': 793, 'not-sarcasm': 781, 'image-sarcasm': 44, 'text-sarcasm': 1})
+best1 Counter({'not-sarcasm': 904, 'multi-sarcasm': 670, 'image-sarcasm': 44, 'text-sarcasm': 1})
+test
+transform Counter({'multi-sarcasm': 974, 'not-sarcasm': 404, 'image-sarcasm': 35})
+transform 2 Counter({'multi-sarcasm': 982, 'not-sarcasm': 383, 'image-sarcasm': 48})
+old transform Counter({'multi-sarcasm': 974, 'not-sarcasm': 404, 'image-sarcasm': 35})
+best1 Counter({'multi-sarcasm': 845, 'not-sarcasm': 533, 'image-sarcasm': 35})
+
+
+best_v2_epoch3_best2_v1_epoch5_not_v1_epoch2
+best_v2_epoch3_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.4096622875518497
+f1: transform 2 0.42150323748483354
+f1: old transform 0.40254047360331713
+f1: best1 0.3850833800754242
+transform Counter({'multi-sarcasm': 813, 'not-sarcasm': 767, 'image-sarcasm': 39})
+transform 2 Counter({'multi-sarcasm': 818, 'not-sarcasm': 779, 'image-sarcasm': 22})
+old transform Counter({'multi-sarcasm': 811, 'not-sarcasm': 791, 'image-sarcasm': 17})
+best1 Counter({'not-sarcasm': 932, 'multi-sarcasm': 670, 'image-sarcasm': 17})
+test
+transform Counter({'multi-sarcasm': 988, 'not-sarcasm': 387, 'image-sarcasm': 38})
+transform 2 Counter({'multi-sarcasm': 1000, 'not-sarcasm': 398, 'image-sarcasm': 15})
+old transform Counter({'multi-sarcasm': 999, 'not-sarcasm': 405, 'image-sarcasm': 9})
+best1 Counter({'multi-sarcasm': 902, 'not-sarcasm': 502, 'image-sarcasm': 9})
+
+
+best_v2_epoch2_best2_v1_epoch5_not_v1_epoch2
+best_v2_epoch2_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.41456719348509175
+f1: transform 2 0.4215626675548068
+f1: old transform 0.4021248746753893
+f1: best1 0.3968347299954899
+transform Counter({'multi-sarcasm': 815, 'not-sarcasm': 771, 'image-sarcasm': 33})
+transform 2 Counter({'multi-sarcasm': 825, 'not-sarcasm': 780, 'image-sarcasm': 14})
+old transform Counter({'multi-sarcasm': 820, 'not-sarcasm': 792, 'image-sarcasm': 7})
+best1 Counter({'not-sarcasm': 889, 'multi-sarcasm': 723, 'image-sarcasm': 7})
+test
+transform Counter({'multi-sarcasm': 996, 'not-sarcasm': 382, 'image-sarcasm': 35})
+transform 2 Counter({'multi-sarcasm': 1006, 'not-sarcasm': 395, 'image-sarcasm': 12})
+old transform Counter({'multi-sarcasm': 1004, 'not-sarcasm': 406, 'image-sarcasm': 3})
+best1 Counter({'multi-sarcasm': 950, 'not-sarcasm': 460, 'image-sarcasm': 3})
+
+
+best_v2_1_epoch3_best2_v1_epoch5_not_v1_epoch2
+best_v2_1_epoch3_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.4121560772521049
+f1: transform 2 0.4162167403165566
+f1: old transform 0.4047486690419378
+f1: best1 0.38873407930593556
+transform Counter({'multi-sarcasm': 812, 'not-sarcasm': 770, 'image-sarcasm': 37})
+transform 2 Counter({'multi-sarcasm': 821, 'not-sarcasm': 778, 'image-sarcasm': 20})
+old transform Counter({'multi-sarcasm': 814, 'not-sarcasm': 791, 'image-sarcasm': 14})
+best1 Counter({'not-sarcasm': 892, 'multi-sarcasm': 713, 'image-sarcasm': 14})
+test
+transform Counter({'multi-sarcasm': 991, 'not-sarcasm': 385, 'image-sarcasm': 37})
+transform 2 Counter({'multi-sarcasm': 1003, 'not-sarcasm': 397, 'image-sarcasm': 13})
+old transform Counter({'multi-sarcasm': 1002, 'not-sarcasm': 405, 'image-sarcasm': 6})
+best1 Counter({'multi-sarcasm': 923, 'not-sarcasm': 484, 'image-sarcasm': 6})
+
+
+best_v2_1_epoch4_best2_v1_epoch5_not_v1_epoch2
+best_v2_1_epoch4_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.4113769297496534
+f1: transform 2 0.4177812951806493
+f1: old transform 0.4038767195844438
+f1: best1 0.3866261783134707
+transform Counter({'multi-sarcasm': 812, 'not-sarcasm': 769, 'image-sarcasm': 38})
+transform 2 Counter({'multi-sarcasm': 818, 'not-sarcasm': 776, 'image-sarcasm': 25})
+old transform Counter({'multi-sarcasm': 813, 'not-sarcasm': 791, 'image-sarcasm': 15})
+best1 Counter({'not-sarcasm': 909, 'multi-sarcasm': 695, 'image-sarcasm': 15})
+test
+transform Counter({'multi-sarcasm': 990, 'not-sarcasm': 385, 'image-sarcasm': 38})
+transform 2 Counter({'multi-sarcasm': 1002, 'not-sarcasm': 398, 'image-sarcasm': 13})
+old transform Counter({'multi-sarcasm': 1000, 'not-sarcasm': 406, 'image-sarcasm': 7})
+best1 Counter({'multi-sarcasm': 908, 'not-sarcasm': 498, 'image-sarcasm': 7})
+
+
+best_v2_1_epoch5_best2_v1_epoch5_not_v1_epoch2
+best_v2_1_epoch5_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.4111057766169919
+f1: transform 2 0.4224884493935066
+f1: old transform 0.4047486690419378
+f1: best1 0.3850471298325261
+transform Counter({'multi-sarcasm': 816, 'not-sarcasm': 765, 'image-sarcasm': 38})
+transform 2 Counter({'multi-sarcasm': 817, 'not-sarcasm': 775, 'image-sarcasm': 27})
+old transform Counter({'multi-sarcasm': 814, 'not-sarcasm': 791, 'image-sarcasm': 14})
+best1 Counter({'not-sarcasm': 914, 'multi-sarcasm': 691, 'image-sarcasm': 14})
+test
+transform Counter({'multi-sarcasm': 990, 'not-sarcasm': 384, 'image-sarcasm': 39})
+transform 2 Counter({'multi-sarcasm': 1001, 'not-sarcasm': 398, 'image-sarcasm': 14})
+old transform Counter({'multi-sarcasm': 999, 'not-sarcasm': 406, 'image-sarcasm': 8})
+best1 Counter({'multi-sarcasm': 899, 'not-sarcasm': 506, 'image-sarcasm': 8})
+
+
+best_v3_epoch2_best2_v1_epoch5_not_v1_epoch2
+best_v3_epoch2_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+best_v3_epoch3_best2_v1_epoch5_not_v1_epoch2
+best_v3_epoch3_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.41564565954050564
+f1: transform 2 0.4220296348386372
+f1: old transform 0.4026868417713488
+f1: best1 0.40058314847595977
+transform Counter({'multi-sarcasm': 817, 'not-sarcasm': 768, 'image-sarcasm': 34})
+transform 2 Counter({'multi-sarcasm': 826, 'not-sarcasm': 780, 'image-sarcasm': 13})
+old transform Counter({'multi-sarcasm': 821, 'not-sarcasm': 792, 'image-sarcasm': 6})
+best1 Counter({'not-sarcasm': 891, 'multi-sarcasm': 722, 'image-sarcasm': 6})
+test
+transform Counter({'multi-sarcasm': 1007, 'not-sarcasm': 372, 'image-sarcasm': 34})
+transform 2 Counter({'multi-sarcasm': 1009, 'not-sarcasm': 394, 'image-sarcasm': 10})
+old transform Counter({'multi-sarcasm': 1005, 'not-sarcasm': 406, 'image-sarcasm': 2})
+best1 Counter({'multi-sarcasm': 966, 'not-sarcasm': 445, 'image-sarcasm': 2})
+
+
+best_v3_epoch4_best2_v1_epoch5_not_v1_epoch2
+best_v3_epoch4_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.4138433603726024
+f1: transform 2 0.42286216108831765
+f1: old transform 0.403623998764685
+f1: best1 0.3991710058982487
+transform Counter({'multi-sarcasm': 830, 'not-sarcasm': 756, 'image-sarcasm': 33})
+transform 2 Counter({'multi-sarcasm': 828, 'not-sarcasm': 779, 'image-sarcasm': 12})
+old transform Counter({'multi-sarcasm': 822, 'not-sarcasm': 792, 'image-sarcasm': 5})
+best1 Counter({'not-sarcasm': 867, 'multi-sarcasm': 747, 'image-sarcasm': 5})
+test
+transform Counter({'multi-sarcasm': 1009, 'not-sarcasm': 370, 'image-sarcasm': 34})
+transform 2 Counter({'multi-sarcasm': 1011, 'not-sarcasm': 394, 'image-sarcasm': 8})
+old transform Counter({'multi-sarcasm': 1006, 'not-sarcasm': 406, 'image-sarcasm': 1})
+best1 Counter({'multi-sarcasm': 978, 'not-sarcasm': 434, 'image-sarcasm': 1})
+
+
+best_v5_epoch7_best2_v1_epoch5_not_v1_epoch2
+best_v5_epoch7_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.42022792562420075
+f1: transform 2 0.42349714461978294
+f1: old transform 0.4226364737227476
+f1: best1 0.4056133491988473
+transform Counter({'multi-sarcasm': 834, 'not-sarcasm': 741, 'image-sarcasm': 44})
+transform 2 Counter({'multi-sarcasm': 820, 'not-sarcasm': 766, 'image-sarcasm': 33})
+old transform Counter({'multi-sarcasm': 814, 'not-sarcasm': 787, 'image-sarcasm': 18})
+best1 Counter({'not-sarcasm': 918, 'multi-sarcasm': 683, 'image-sarcasm': 18})
+test
+transform Counter({'multi-sarcasm': 998, 'not-sarcasm': 376, 'image-sarcasm': 39})
+transform 2 Counter({'multi-sarcasm': 1005, 'not-sarcasm': 394, 'image-sarcasm': 14})
+old transform Counter({'multi-sarcasm': 1003, 'not-sarcasm': 404, 'image-sarcasm': 6})
+best1 Counter({'multi-sarcasm': 873, 'not-sarcasm': 534, 'image-sarcasm': 6})
+
+
+best_v6_epoch2_best2_v1_epoch5_not_v1_epoch2
+best_v6_epoch2_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.4138439564353487
+f1: transform 2 0.41027860379111136
+f1: old transform 0.39392815336391396
+f1: best1 0.3910729760959053
+transform Counter({'multi-sarcasm': 822, 'not-sarcasm': 763, 'image-sarcasm': 34})
+transform 2 Counter({'multi-sarcasm': 825, 'not-sarcasm': 776, 'image-sarcasm': 18})
+old transform Counter({'multi-sarcasm': 820, 'not-sarcasm': 792, 'image-sarcasm': 7})
+best1 Counter({'not-sarcasm': 869, 'multi-sarcasm': 743, 'image-sarcasm': 7})
+test
+transform Counter({'multi-sarcasm': 1004, 'not-sarcasm': 375, 'image-sarcasm': 34})
+transform 2 Counter({'multi-sarcasm': 1005, 'not-sarcasm': 396, 'image-sarcasm': 12})
+old transform Counter({'multi-sarcasm': 1006, 'not-sarcasm': 406, 'image-sarcasm': 1})
+best1 Counter({'multi-sarcasm': 960, 'not-sarcasm': 452, 'image-sarcasm': 1})
+
+
+best_v6_epoch3_best2_v1_epoch5_not_v1_epoch2
+best_v6_epoch3_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.4133249857248491
+f1: transform 2 0.4125111134033785
+f1: old transform 0.4007662391506637
+f1: best1 0.388789465050035
+transform Counter({'multi-sarcasm': 821, 'not-sarcasm': 763, 'image-sarcasm': 35})
+transform 2 Counter({'multi-sarcasm': 823, 'not-sarcasm': 771, 'image-sarcasm': 25})
+old transform Counter({'multi-sarcasm': 819, 'not-sarcasm': 791, 'image-sarcasm': 9})
+best1 Counter({'not-sarcasm': 907, 'multi-sarcasm': 703, 'image-sarcasm': 9})
+test
+transform Counter({'multi-sarcasm': 995, 'not-sarcasm': 383, 'image-sarcasm': 35})
+transform 2 Counter({'multi-sarcasm': 1003, 'not-sarcasm': 396, 'image-sarcasm': 14})
+old transform Counter({'multi-sarcasm': 1003, 'not-sarcasm': 406, 'image-sarcasm': 4})
+best1 Counter({'multi-sarcasm': 913, 'not-sarcasm': 496, 'image-sarcasm': 4})
+
+
+best_v6_1_epoch2_best2_v1_epoch5_not_v1_epoch2
+best_v6_1_epoch2_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.4135417903471988
+f1: transform 2 0.4049347266077026
+f1: old transform 0.3866748462223122
+f1: best1 0.38145883234424593
+transform Counter({'multi-sarcasm': 823, 'not-sarcasm': 762, 'image-sarcasm': 34})
+transform 2 Counter({'multi-sarcasm': 826, 'not-sarcasm': 777, 'image-sarcasm': 16})
+old transform Counter({'multi-sarcasm': 822, 'not-sarcasm': 792, 'image-sarcasm': 5})
+best1 Counter({'not-sarcasm': 882, 'multi-sarcasm': 732, 'image-sarcasm': 5})
+test
+transform Counter({'multi-sarcasm': 1004, 'not-sarcasm': 376, 'image-sarcasm': 33})
+transform 2 Counter({'multi-sarcasm': 1008, 'not-sarcasm': 394, 'image-sarcasm': 11})
+old transform Counter({'multi-sarcasm': 1007, 'not-sarcasm': 406})
+best1 Counter({'multi-sarcasm': 941, 'not-sarcasm': 472})
+
+
+best_v6_1_epoch3_best2_v1_epoch5_not_v1_epoch2
+best_v6_1_epoch3_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.4138343591008559
+f1: transform 2 0.4150512382759156
+f1: old transform 0.39392815336391396
+f1: best1 0.38727463543550167
+transform Counter({'multi-sarcasm': 823, 'not-sarcasm': 762, 'image-sarcasm': 34})
+transform 2 Counter({'multi-sarcasm': 824, 'not-sarcasm': 774, 'image-sarcasm': 21})
+old transform Counter({'multi-sarcasm': 820, 'not-sarcasm': 792, 'image-sarcasm': 7})
+best1 Counter({'not-sarcasm': 891, 'multi-sarcasm': 721, 'image-sarcasm': 7})
+test
+transform Counter({'multi-sarcasm': 1001, 'not-sarcasm': 378, 'image-sarcasm': 34})
+transform 2 Counter({'multi-sarcasm': 1006, 'not-sarcasm': 394, 'image-sarcasm': 13})
+old transform Counter({'multi-sarcasm': 1006, 'not-sarcasm': 406, 'image-sarcasm': 1})
+best1 Counter({'multi-sarcasm': 942, 'not-sarcasm': 470, 'image-sarcasm': 1})
+
+
+best_v6_1_epoch4_best2_v1_epoch5_not_v1_epoch2
+best_v6_1_epoch4_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2
+train
+f1: transform 0.41185401882049344
+f1: transform 2 0.4141312671321461
+f1: old transform 0.39247712190526995
+f1: best1 0.38253904886744117
+transform Counter({'multi-sarcasm': 823, 'not-sarcasm': 760, 'image-sarcasm': 36})
+transform 2 Counter({'multi-sarcasm': 822, 'not-sarcasm': 775, 'image-sarcasm': 22})
+old transform Counter({'multi-sarcasm': 819, 'not-sarcasm': 791, 'image-sarcasm': 9})
+best1 Counter({'not-sarcasm': 910, 'multi-sarcasm': 700, 'image-sarcasm': 9})
+test
+transform Counter({'multi-sarcasm': 1000, 'not-sarcasm': 379, 'image-sarcasm': 34})
+transform 2 Counter({'multi-sarcasm': 1005, 'not-sarcasm': 393, 'image-sarcasm': 15})
+old transform Counter({'multi-sarcasm': 1004, 'not-sarcasm': 406, 'image-sarcasm': 3})
+best1 Counter({'multi-sarcasm': 927, 'not-sarcasm': 483, 'image-sarcasm': 3})
+
+
+best_v1_epoch2_best2_v1_epoch5_not_v1_epoch2
+best_v1_epoch2_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.41382754363946395
+f1: transform 2 0.4154998858044787
+f1: old transform 0.4030389544474051
+f1: best1 0.3964140121252724
+transform Counter({'multi-sarcasm': 812, 'not-sarcasm': 774, 'image-sarcasm': 33})
+transform 2 Counter({'not-sarcasm': 883, 'multi-sarcasm': 723, 'image-sarcasm': 13})
+old transform Counter({'multi-sarcasm': 821, 'not-sarcasm': 792, 'image-sarcasm': 6})
+best1 Counter({'not-sarcasm': 875, 'multi-sarcasm': 738, 'image-sarcasm': 6})
+test
+transform Counter({'multi-sarcasm': 991, 'not-sarcasm': 389, 'image-sarcasm': 33})
+transform 2 Counter({'multi-sarcasm': 926, 'not-sarcasm': 480, 'image-sarcasm': 7})
+old transform Counter({'multi-sarcasm': 1006, 'not-sarcasm': 406, 'image-sarcasm': 1})
+best1 Counter({'multi-sarcasm': 939, 'not-sarcasm': 473, 'image-sarcasm': 1})
+
+
+best_v1_epoch3_best2_v1_epoch5_not_v1_epoch2
+best_v1_epoch3_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.4146094209719643
+f1: transform 2 0.4175743504891914
+f1: old transform 0.40672112721582687
+f1: best1 0.39510142887642014
+transform Counter({'multi-sarcasm': 799, 'not-sarcasm': 786, 'image-sarcasm': 34})
+transform 2 Counter({'not-sarcasm': 916, 'multi-sarcasm': 686, 'image-sarcasm': 17})
+old transform Counter({'multi-sarcasm': 816, 'not-sarcasm': 792, 'image-sarcasm': 11})
+best1 Counter({'not-sarcasm': 913, 'multi-sarcasm': 695, 'image-sarcasm': 11})
+test
+transform Counter({'multi-sarcasm': 985, 'not-sarcasm': 394, 'image-sarcasm': 34})
+transform 2 Counter({'multi-sarcasm': 900, 'not-sarcasm': 501, 'image-sarcasm': 12})
+old transform Counter({'multi-sarcasm': 998, 'not-sarcasm': 406, 'image-sarcasm': 9})
+best1 Counter({'multi-sarcasm': 917, 'not-sarcasm': 487, 'image-sarcasm': 9})
+
+
+best_v1_epoch4_best2_v1_epoch5_not_v1_epoch2
+best_v1_epoch4_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.4110736340735173
+f1: transform 2 0.4082324826799965
+f1: old transform 0.41099636739019074
+f1: best1 0.39150867865819283
+transform Counter({'multi-sarcasm': 798, 'not-sarcasm': 783, 'image-sarcasm': 38})
+transform 2 Counter({'not-sarcasm': 925, 'multi-sarcasm': 668, 'image-sarcasm': 26})
+old transform Counter({'multi-sarcasm': 808, 'not-sarcasm': 788, 'image-sarcasm': 23})
+best1 Counter({'not-sarcasm': 914, 'multi-sarcasm': 682, 'image-sarcasm': 23})
+test
+transform Counter({'multi-sarcasm': 983, 'not-sarcasm': 397, 'image-sarcasm': 33})
+transform 2 Counter({'multi-sarcasm': 880, 'not-sarcasm': 517, 'image-sarcasm': 16})
+old transform Counter({'multi-sarcasm': 992, 'not-sarcasm': 406, 'image-sarcasm': 15})
+best1 Counter({'multi-sarcasm': 881, 'not-sarcasm': 517, 'image-sarcasm': 15})
+
+
+best_v1_1_epoch4_best2_v1_epoch5_not_v1_epoch2
+best_v1_1_epoch4_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.41437484403619496
+f1: transform 2 0.41404029656436425
+f1: old transform 0.4140210504501926
+f1: best1 0.39593192510498565
+transform Counter({'multi-sarcasm': 800, 'not-sarcasm': 776, 'image-sarcasm': 43})
+transform 2 Counter({'not-sarcasm': 944, 'multi-sarcasm': 646, 'image-sarcasm': 29})
+old transform Counter({'multi-sarcasm': 804, 'not-sarcasm': 788, 'image-sarcasm': 27})
+best1 Counter({'not-sarcasm': 916, 'multi-sarcasm': 676, 'image-sarcasm': 27})
+test
+transform Counter({'multi-sarcasm': 981, 'not-sarcasm': 396, 'image-sarcasm': 36})
+transform 2 Counter({'multi-sarcasm': 867, 'not-sarcasm': 530, 'image-sarcasm': 16})
+old transform Counter({'multi-sarcasm': 992, 'not-sarcasm': 406, 'image-sarcasm': 15})
+best1 Counter({'multi-sarcasm': 874, 'not-sarcasm': 524, 'image-sarcasm': 15})
+
+
+best_v1_1_epoch5_best2_v1_epoch5_not_v1_epoch2
+best_v1_1_epoch5_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.4105851800286029
+f1: transform 2 0.4084984195836473
+f1: old transform 0.4091567799969189
+f1: best1 0.3908204296601884
+transform Counter({'multi-sarcasm': 800, 'not-sarcasm': 777, 'image-sarcasm': 42})
+transform 2 Counter({'not-sarcasm': 952, 'multi-sarcasm': 640, 'image-sarcasm': 27})
+old transform Counter({'multi-sarcasm': 805, 'not-sarcasm': 789, 'image-sarcasm': 25})
+best1 Counter({'not-sarcasm': 935, 'multi-sarcasm': 659, 'image-sarcasm': 25})
+test
+transform Counter({'multi-sarcasm': 976, 'not-sarcasm': 397, 'image-sarcasm': 40})
+transform 2 Counter({'multi-sarcasm': 855, 'not-sarcasm': 537, 'image-sarcasm': 21})
+old transform Counter({'multi-sarcasm': 986, 'not-sarcasm': 406, 'image-sarcasm': 21})
+best1 Counter({'multi-sarcasm': 858, 'not-sarcasm': 534, 'image-sarcasm': 21})
+
+
+best_v1_1_epoch6_best2_v1_epoch5_not_v1_epoch2
+best_v1_1_epoch6_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.415077918268137
+f1: transform 2 0.41233713807163175
+f1: old transform 0.41400866530624314
+f1: best1 0.39193847527501935
+transform Counter({'multi-sarcasm': 801, 'not-sarcasm': 775, 'image-sarcasm': 43})
+transform 2 Counter({'not-sarcasm': 953, 'multi-sarcasm': 638, 'image-sarcasm': 28})
+old transform Counter({'multi-sarcasm': 805, 'not-sarcasm': 787, 'image-sarcasm': 27})
+best1 Counter({'not-sarcasm': 938, 'multi-sarcasm': 654, 'image-sarcasm': 27})
+test
+transform Counter({'multi-sarcasm': 978, 'not-sarcasm': 395, 'image-sarcasm': 40})
+transform 2 Counter({'multi-sarcasm': 851, 'not-sarcasm': 542, 'image-sarcasm': 20})
+old transform Counter({'multi-sarcasm': 986, 'not-sarcasm': 406, 'image-sarcasm': 21})
+best1 Counter({'multi-sarcasm': 853, 'not-sarcasm': 539, 'image-sarcasm': 21})
+
+
+best_v1_1_epoch7_best2_v1_epoch5_not_v1_epoch2
+best_v1_1_epoch7_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.4145090439276486
+f1: transform 2 0.41092522374803575
+f1: old transform 0.4173923202309512
+f1: best1 0.3958880518931165
+transform Counter({'multi-sarcasm': 801, 'not-sarcasm': 773, 'image-sarcasm': 45})
+transform 2 Counter({'not-sarcasm': 957, 'multi-sarcasm': 631, 'image-sarcasm': 31})
+old transform Counter({'multi-sarcasm': 802, 'not-sarcasm': 786, 'image-sarcasm': 31})
+best1 Counter({'not-sarcasm': 935, 'multi-sarcasm': 653, 'image-sarcasm': 31})
+test
+transform Counter({'multi-sarcasm': 974, 'not-sarcasm': 397, 'image-sarcasm': 42})
+transform 2 Counter({'multi-sarcasm': 843, 'not-sarcasm': 545, 'image-sarcasm': 25})
+old transform Counter({'multi-sarcasm': 982, 'not-sarcasm': 406, 'image-sarcasm': 25})
+best1 Counter({'multi-sarcasm': 849, 'not-sarcasm': 539, 'image-sarcasm': 25})
+
+
+best_v2_epoch2_best2_v1_epoch5_not_v1_epoch2
+best_v2_epoch2_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.41456719348509175
+f1: transform 2 0.42330138223474645
+f1: old transform 0.4021248746753893
+f1: best1 0.3968347299954899
+transform Counter({'multi-sarcasm': 815, 'not-sarcasm': 771, 'image-sarcasm': 33})
+transform 2 Counter({'not-sarcasm': 892, 'multi-sarcasm': 713, 'image-sarcasm': 14})
+old transform Counter({'multi-sarcasm': 820, 'not-sarcasm': 792, 'image-sarcasm': 7})
+best1 Counter({'not-sarcasm': 889, 'multi-sarcasm': 723, 'image-sarcasm': 7})
+test
+transform Counter({'multi-sarcasm': 996, 'not-sarcasm': 382, 'image-sarcasm': 35})
+transform 2 Counter({'multi-sarcasm': 928, 'not-sarcasm': 476, 'image-sarcasm': 9})
+old transform Counter({'multi-sarcasm': 1004, 'not-sarcasm': 406, 'image-sarcasm': 3})
+best1 Counter({'multi-sarcasm': 950, 'not-sarcasm': 460, 'image-sarcasm': 3})
+
+
+best_v2_epoch3_best2_v1_epoch5_not_v1_epoch2
+best_v2_epoch3_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.4096622875518497
+f1: transform 2 0.4105757823268747
+f1: old transform 0.40254047360331713
+f1: best1 0.3850833800754242
+transform Counter({'multi-sarcasm': 813, 'not-sarcasm': 767, 'image-sarcasm': 39})
+transform 2 Counter({'not-sarcasm': 942, 'multi-sarcasm': 658, 'image-sarcasm': 19})
+old transform Counter({'multi-sarcasm': 811, 'not-sarcasm': 791, 'image-sarcasm': 17})
+best1 Counter({'not-sarcasm': 932, 'multi-sarcasm': 670, 'image-sarcasm': 17})
+test
+transform Counter({'multi-sarcasm': 988, 'not-sarcasm': 387, 'image-sarcasm': 38})
+transform 2 Counter({'multi-sarcasm': 892, 'not-sarcasm': 509, 'image-sarcasm': 12})
+old transform Counter({'multi-sarcasm': 999, 'not-sarcasm': 405, 'image-sarcasm': 9})
+best1 Counter({'multi-sarcasm': 902, 'not-sarcasm': 502, 'image-sarcasm': 9})
+
+
+best_v2_epoch4_best2_v1_epoch5_not_v1_epoch2
+best_v2_epoch4_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+best_v2_1_epoch3_best2_v1_epoch5_not_v1_epoch2
+best_v2_1_epoch3_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.4121560772521049
+f1: transform 2 0.41344004576752386
+f1: old transform 0.4047486690419378
+f1: best1 0.38873407930593556
+transform Counter({'multi-sarcasm': 812, 'not-sarcasm': 770, 'image-sarcasm': 37})
+transform 2 Counter({'not-sarcasm': 906, 'multi-sarcasm': 696, 'image-sarcasm': 17})
+old transform Counter({'multi-sarcasm': 814, 'not-sarcasm': 791, 'image-sarcasm': 14})
+best1 Counter({'not-sarcasm': 892, 'multi-sarcasm': 713, 'image-sarcasm': 14})
+test
+transform Counter({'multi-sarcasm': 991, 'not-sarcasm': 385, 'image-sarcasm': 37})
+transform 2 Counter({'multi-sarcasm': 908, 'not-sarcasm': 494, 'image-sarcasm': 11})
+old transform Counter({'multi-sarcasm': 1002, 'not-sarcasm': 405, 'image-sarcasm': 6})
+best1 Counter({'multi-sarcasm': 923, 'not-sarcasm': 484, 'image-sarcasm': 6})
+
+
+best_v2_1_epoch4_best2_v1_epoch5_not_v1_epoch2
+best_v2_1_epoch4_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.4113769297496534
+f1: transform 2 0.4124133433179698
+f1: old transform 0.4038767195844438
+f1: best1 0.3866261783134707
+transform Counter({'multi-sarcasm': 812, 'not-sarcasm': 769, 'image-sarcasm': 38})
+transform 2 Counter({'not-sarcasm': 924, 'multi-sarcasm': 678, 'image-sarcasm': 17})
+old transform Counter({'multi-sarcasm': 813, 'not-sarcasm': 791, 'image-sarcasm': 15})
+best1 Counter({'not-sarcasm': 909, 'multi-sarcasm': 695, 'image-sarcasm': 15})
+test
+transform Counter({'multi-sarcasm': 990, 'not-sarcasm': 385, 'image-sarcasm': 38})
+transform 2 Counter({'multi-sarcasm': 895, 'not-sarcasm': 507, 'image-sarcasm': 11})
+old transform Counter({'multi-sarcasm': 1000, 'not-sarcasm': 406, 'image-sarcasm': 7})
+best1 Counter({'multi-sarcasm': 908, 'not-sarcasm': 498, 'image-sarcasm': 7})
+
+
+best_v2_1_epoch5_best2_v1_epoch5_not_v1_epoch2
+best_v2_1_epoch5_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.4111057766169919
+f1: transform 2 0.4173760264655998
+f1: old transform 0.4047486690419378
+f1: best1 0.3850471298325261
+transform Counter({'multi-sarcasm': 816, 'not-sarcasm': 765, 'image-sarcasm': 38})
+transform 2 Counter({'not-sarcasm': 933, 'multi-sarcasm': 668, 'image-sarcasm': 18})
+old transform Counter({'multi-sarcasm': 814, 'not-sarcasm': 791, 'image-sarcasm': 14})
+best1 Counter({'not-sarcasm': 914, 'multi-sarcasm': 691, 'image-sarcasm': 14})
+test
+transform Counter({'multi-sarcasm': 990, 'not-sarcasm': 384, 'image-sarcasm': 39})
+transform 2 Counter({'multi-sarcasm': 886, 'not-sarcasm': 516, 'image-sarcasm': 11})
+old transform Counter({'multi-sarcasm': 999, 'not-sarcasm': 406, 'image-sarcasm': 8})
+best1 Counter({'multi-sarcasm': 899, 'not-sarcasm': 506, 'image-sarcasm': 8})
+
+
+best_v3_epoch3_best2_v1_epoch5_not_v1_epoch2
+best_v3_epoch3_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.41564565954050564
+f1: transform 2 0.4235809949595145
+f1: old transform 0.4026868417713488
+f1: best1 0.40058314847595977
+transform Counter({'multi-sarcasm': 817, 'not-sarcasm': 768, 'image-sarcasm': 34})
+transform 2 Counter({'not-sarcasm': 890, 'multi-sarcasm': 717, 'image-sarcasm': 12})
+old transform Counter({'multi-sarcasm': 821, 'not-sarcasm': 792, 'image-sarcasm': 6})
+best1 Counter({'not-sarcasm': 891, 'multi-sarcasm': 722, 'image-sarcasm': 6})
+test
+transform Counter({'multi-sarcasm': 1007, 'not-sarcasm': 372, 'image-sarcasm': 34})
+transform 2 Counter({'multi-sarcasm': 940, 'not-sarcasm': 466, 'image-sarcasm': 7})
+old transform Counter({'multi-sarcasm': 1005, 'not-sarcasm': 406, 'image-sarcasm': 2})
+best1 Counter({'multi-sarcasm': 966, 'not-sarcasm': 445, 'image-sarcasm': 2})
+
+
+best_v3_epoch4_best2_v1_epoch5_not_v1_epoch2
+best_v3_epoch4_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.4138433603726024
+f1: transform 2 0.42462479596185
+f1: old transform 0.403623998764685
+f1: best1 0.3991710058982487
+transform Counter({'multi-sarcasm': 830, 'not-sarcasm': 756, 'image-sarcasm': 33})
+transform 2 Counter({'not-sarcasm': 882, 'multi-sarcasm': 726, 'image-sarcasm': 11})
+old transform Counter({'multi-sarcasm': 822, 'not-sarcasm': 792, 'image-sarcasm': 5})
+best1 Counter({'not-sarcasm': 867, 'multi-sarcasm': 747, 'image-sarcasm': 5})
+test
+transform Counter({'multi-sarcasm': 1009, 'not-sarcasm': 370, 'image-sarcasm': 34})
+transform 2 Counter({'multi-sarcasm': 946, 'not-sarcasm': 462, 'image-sarcasm': 5})
+old transform Counter({'multi-sarcasm': 1006, 'not-sarcasm': 406, 'image-sarcasm': 1})
+best1 Counter({'multi-sarcasm': 978, 'not-sarcasm': 434, 'image-sarcasm': 1})
+
+
+best_v5_epoch7_best2_v1_epoch5_not_v1_epoch2
+best_v5_epoch7_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.42022792562420075
+f1: transform 2 0.4265577261462374
+f1: old transform 0.4226364737227476
+f1: best1 0.4056133491988473
+transform Counter({'multi-sarcasm': 834, 'not-sarcasm': 741, 'image-sarcasm': 44})
+transform 2 Counter({'not-sarcasm': 938, 'multi-sarcasm': 658, 'image-sarcasm': 23})
+old transform Counter({'multi-sarcasm': 814, 'not-sarcasm': 787, 'image-sarcasm': 18})
+best1 Counter({'not-sarcasm': 918, 'multi-sarcasm': 683, 'image-sarcasm': 18})
+test
+transform Counter({'multi-sarcasm': 998, 'not-sarcasm': 376, 'image-sarcasm': 39})
+transform 2 Counter({'multi-sarcasm': 868, 'not-sarcasm': 534, 'image-sarcasm': 11})
+old transform Counter({'multi-sarcasm': 1003, 'not-sarcasm': 404, 'image-sarcasm': 6})
+best1 Counter({'multi-sarcasm': 873, 'not-sarcasm': 534, 'image-sarcasm': 6})
+
+
+best_v6_epoch2_best2_v1_epoch5_not_v1_epoch2
+best_v6_epoch2_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.4138439564353487
+f1: transform 2 0.415332651501064
+f1: old transform 0.39392815336391396
+f1: best1 0.3910729760959053
+transform Counter({'multi-sarcasm': 822, 'not-sarcasm': 763, 'image-sarcasm': 34})
+transform 2 Counter({'not-sarcasm': 878, 'multi-sarcasm': 727, 'image-sarcasm': 14})
+old transform Counter({'multi-sarcasm': 820, 'not-sarcasm': 792, 'image-sarcasm': 7})
+best1 Counter({'not-sarcasm': 869, 'multi-sarcasm': 743, 'image-sarcasm': 7})
+test
+transform Counter({'multi-sarcasm': 1004, 'not-sarcasm': 375, 'image-sarcasm': 34})
+transform 2 Counter({'multi-sarcasm': 929, 'not-sarcasm': 475, 'image-sarcasm': 9})
+old transform Counter({'multi-sarcasm': 1006, 'not-sarcasm': 406, 'image-sarcasm': 1})
+best1 Counter({'multi-sarcasm': 960, 'not-sarcasm': 452, 'image-sarcasm': 1})
+
+
+best_v6_epoch3_best2_v1_epoch5_not_v1_epoch2
+best_v6_epoch3_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.4133249857248491
+f1: transform 2 0.41616499811587704
+f1: old transform 0.4007662391506637
+f1: best1 0.388789465050035
+transform Counter({'multi-sarcasm': 821, 'not-sarcasm': 763, 'image-sarcasm': 35})
+transform 2 Counter({'not-sarcasm': 910, 'multi-sarcasm': 692, 'image-sarcasm': 17})
+old transform Counter({'multi-sarcasm': 819, 'not-sarcasm': 791, 'image-sarcasm': 9})
+best1 Counter({'not-sarcasm': 907, 'multi-sarcasm': 703, 'image-sarcasm': 9})
+test
+transform Counter({'multi-sarcasm': 995, 'not-sarcasm': 383, 'image-sarcasm': 35})
+transform 2 Counter({'multi-sarcasm': 896, 'not-sarcasm': 508, 'image-sarcasm': 9})
+old transform Counter({'multi-sarcasm': 1003, 'not-sarcasm': 406, 'image-sarcasm': 4})
+best1 Counter({'multi-sarcasm': 913, 'not-sarcasm': 496, 'image-sarcasm': 4})
+
+
+best_v6_1_epoch3_best2_v1_epoch5_not_v1_epoch2
+best_v6_1_epoch3_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.4138343591008559
+f1: transform 2 0.4212354159710032
+f1: old transform 0.39392815336391396
+f1: best1 0.38727463543550167
+transform Counter({'multi-sarcasm': 823, 'not-sarcasm': 762, 'image-sarcasm': 34})
+transform 2 Counter({'not-sarcasm': 895, 'multi-sarcasm': 709, 'image-sarcasm': 15})
+old transform Counter({'multi-sarcasm': 820, 'not-sarcasm': 792, 'image-sarcasm': 7})
+best1 Counter({'not-sarcasm': 891, 'multi-sarcasm': 721, 'image-sarcasm': 7})
+test
+transform Counter({'multi-sarcasm': 1001, 'not-sarcasm': 378, 'image-sarcasm': 34})
+transform 2 Counter({'multi-sarcasm': 918, 'not-sarcasm': 487, 'image-sarcasm': 8})
+old transform Counter({'multi-sarcasm': 1006, 'not-sarcasm': 406, 'image-sarcasm': 1})
+best1 Counter({'multi-sarcasm': 942, 'not-sarcasm': 470, 'image-sarcasm': 1})
+
+
+best_v6_1_epoch4_best2_v1_epoch5_not_v1_epoch2
+best_v6_1_epoch4_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.41185401882049344
+f1: transform 2 0.4181540236550133
+f1: old transform 0.39247712190526995
+f1: best1 0.38253904886744117
+transform Counter({'multi-sarcasm': 823, 'not-sarcasm': 760, 'image-sarcasm': 36})
+transform 2 Counter({'not-sarcasm': 918, 'multi-sarcasm': 685, 'image-sarcasm': 16})
+old transform Counter({'multi-sarcasm': 819, 'not-sarcasm': 791, 'image-sarcasm': 9})
+best1 Counter({'not-sarcasm': 910, 'multi-sarcasm': 700, 'image-sarcasm': 9})
+test
+transform Counter({'multi-sarcasm': 1000, 'not-sarcasm': 379, 'image-sarcasm': 34})
+transform 2 Counter({'multi-sarcasm': 905, 'not-sarcasm': 499, 'image-sarcasm': 9})
+old transform Counter({'multi-sarcasm': 1004, 'not-sarcasm': 406, 'image-sarcasm': 3})
+best1 Counter({'multi-sarcasm': 927, 'not-sarcasm': 483, 'image-sarcasm': 3})
+
+
+best_v6_1_epoch5_best2_v1_epoch5_not_v1_epoch2
+best_v6_1_epoch5_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+best_v6_1_epoch5_best2_v1_epoch5_not_v1_epoch2
+best_v6_1_epoch5_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+best_v6_epoch5_best2_v1_epoch5_not_v1_epoch2
+best_v6_epoch5_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+best_v6_epoch4_best2_v1_epoch5_not_v1_epoch2
+best_v6_epoch4_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+best_v5_epoch7_best2_v1_epoch5_not_v1_epoch2
+best_v5_epoch7_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.42022792562420075
+f1: transform 2 0.4265577261462374
+f1: old transform 0.4226364737227476
+f1: best1 0.4056133491988473
+transform Counter({'multi-sarcasm': 834, 'not-sarcasm': 741, 'image-sarcasm': 44})
+transform 2 Counter({'not-sarcasm': 938, 'multi-sarcasm': 658, 'image-sarcasm': 23})
+old transform Counter({'multi-sarcasm': 814, 'not-sarcasm': 787, 'image-sarcasm': 18})
+best1 Counter({'not-sarcasm': 918, 'multi-sarcasm': 683, 'image-sarcasm': 18})
+test
+transform Counter({'multi-sarcasm': 998, 'not-sarcasm': 376, 'image-sarcasm': 39})
+transform 2 Counter({'multi-sarcasm': 868, 'not-sarcasm': 534, 'image-sarcasm': 11})
+old transform Counter({'multi-sarcasm': 1003, 'not-sarcasm': 404, 'image-sarcasm': 6})
+best1 Counter({'multi-sarcasm': 873, 'not-sarcasm': 534, 'image-sarcasm': 6})
+
+
+best_v5_epoch7_best2_v1_epoch5_not_v1_epoch2
+best_v5_epoch7_best2_v1_epoch5_not_v1_epoch2
+best_v5_epoch7_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.42022792562420075
+f1: transform 2 0.4265577261462374
+f1: old transform 0.4226364737227476
+f1: best1 0.4056133491988473
+transform Counter({'multi-sarcasm': 834, 'not-sarcasm': 741, 'image-sarcasm': 44})
+transform 2 Counter({'not-sarcasm': 938, 'multi-sarcasm': 658, 'image-sarcasm': 23})
+old transform Counter({'multi-sarcasm': 814, 'not-sarcasm': 787, 'image-sarcasm': 18})
+best1 Counter({'not-sarcasm': 918, 'multi-sarcasm': 683, 'image-sarcasm': 18})
+test
+transform Counter({'multi-sarcasm': 998, 'not-sarcasm': 376, 'image-sarcasm': 39})
+transform 2 Counter({'multi-sarcasm': 868, 'not-sarcasm': 534, 'image-sarcasm': 11})
+old transform Counter({'multi-sarcasm': 1003, 'not-sarcasm': 404, 'image-sarcasm': 6})
+best1 Counter({'multi-sarcasm': 873, 'not-sarcasm': 534, 'image-sarcasm': 6})
+
+
+best_v5_epoch7_best2_v1_epoch5_not_v1_epoch2
+best_v5_epoch7_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.42022792562420075
+f1: transform 2 0.4265577261462374
+f1: old transform 0.4226364737227476
+f1: best1 0.4056133491988473
+transform Counter({'multi-sarcasm': 834, 'not-sarcasm': 741, 'image-sarcasm': 44})
+transform 2 Counter({'not-sarcasm': 938, 'multi-sarcasm': 658, 'image-sarcasm': 23})
+old transform Counter({'multi-sarcasm': 814, 'not-sarcasm': 787, 'image-sarcasm': 18})
+best1 Counter({'not-sarcasm': 918, 'multi-sarcasm': 683, 'image-sarcasm': 18})
+test
+transform Counter({'multi-sarcasm': 998, 'not-sarcasm': 376, 'image-sarcasm': 39})
+transform 2 Counter({'multi-sarcasm': 868, 'not-sarcasm': 534, 'image-sarcasm': 11})
+old transform Counter({'multi-sarcasm': 1003, 'not-sarcasm': 404, 'image-sarcasm': 6})
+best1 Counter({'multi-sarcasm': 873, 'not-sarcasm': 534, 'image-sarcasm': 6})
+
+
+best_v5_epoch7_best2_v1_epoch5_not_v1_epoch2
+best_v5_epoch7_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.42022792562420075
+f1: transform 2 0.4265577261462374
+f1: old transform 0.4226364737227476
+f1: best1 0.4056133491988473
+transform Counter({'multi-sarcasm': 834, 'not-sarcasm': 741, 'image-sarcasm': 44})
+transform 2 Counter({'not-sarcasm': 938, 'multi-sarcasm': 658, 'image-sarcasm': 23})
+old transform Counter({'multi-sarcasm': 814, 'not-sarcasm': 787, 'image-sarcasm': 18})
+best1 Counter({'not-sarcasm': 918, 'multi-sarcasm': 683, 'image-sarcasm': 18})
+test
+transform Counter({'multi-sarcasm': 998, 'not-sarcasm': 376, 'image-sarcasm': 39})
+transform 2 Counter({'multi-sarcasm': 868, 'not-sarcasm': 534, 'image-sarcasm': 11})
+old transform Counter({'multi-sarcasm': 1003, 'not-sarcasm': 404, 'image-sarcasm': 6})
+best1 Counter({'multi-sarcasm': 873, 'not-sarcasm': 534, 'image-sarcasm': 6})
+
+
+best_v5_epoch7_best2_v1_epoch5_not_v1_epoch2
+best_v5_epoch7_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.42022792562420075
+f1: transform 2 0.4265577261462374
+f1: old transform 0.4226364737227476
+f1: best1 0.4056133491988473
+transform Counter({'multi-sarcasm': 834, 'not-sarcasm': 741, 'image-sarcasm': 44})
+transform 2 Counter({'not-sarcasm': 938, 'multi-sarcasm': 658, 'image-sarcasm': 23})
+old transform Counter({'multi-sarcasm': 814, 'not-sarcasm': 787, 'image-sarcasm': 18})
+best1 Counter({'not-sarcasm': 918, 'multi-sarcasm': 683, 'image-sarcasm': 18})
+test
+transform Counter({'multi-sarcasm': 998, 'not-sarcasm': 376, 'image-sarcasm': 39})
+transform 2 Counter({'multi-sarcasm': 868, 'not-sarcasm': 534, 'image-sarcasm': 11})
+old transform Counter({'multi-sarcasm': 1003, 'not-sarcasm': 404, 'image-sarcasm': 6})
+best1 Counter({'multi-sarcasm': 873, 'not-sarcasm': 534, 'image-sarcasm': 6})
+
+
+best_v5_epoch7_best2_v1_epoch5_not_v1_epoch2
+best_v5_epoch7_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+best_v5_epoch7_best2_v1_epoch5_not_v1_epoch2
+best_v5_epoch7_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.42022792562420075
+f1: transform 2 0.4265577261462374
+f1: old transform 0.4226364737227476
+f1: best1 0.4056133491988473
+transform Counter({'multi-sarcasm': 834, 'not-sarcasm': 741, 'image-sarcasm': 44})
+transform 2 Counter({'not-sarcasm': 938, 'multi-sarcasm': 658, 'image-sarcasm': 23})
+old transform Counter({'multi-sarcasm': 814, 'not-sarcasm': 787, 'image-sarcasm': 18})
+best1 Counter({'not-sarcasm': 918, 'multi-sarcasm': 683, 'image-sarcasm': 18})
+test
+transform Counter({'multi-sarcasm': 998, 'not-sarcasm': 376, 'image-sarcasm': 39})
+transform 2 Counter({'multi-sarcasm': 868, 'not-sarcasm': 534, 'image-sarcasm': 11})
+old transform Counter({'multi-sarcasm': 1003, 'not-sarcasm': 404, 'image-sarcasm': 6})
+best1 Counter({'multi-sarcasm': 873, 'not-sarcasm': 534, 'image-sarcasm': 6})
+
+
+best_v5_epoch7_best2_v1_epoch5_not_v1_epoch2
+best_v5_epoch7_best2_v1_epoch5_best3_v1_1_epoch7_not_v1_epoch2_v2
+train
+f1: transform 0.42022792562420075
+f1: transform 2 0.4265577261462374
+f1: old transform 0.4226364737227476
+f1: best1 0.4056133491988473
+transform Counter({'multi-sarcasm': 834, 'not-sarcasm': 741, 'image-sarcasm': 44})
+transform 2 Counter({'not-sarcasm': 938, 'multi-sarcasm': 658, 'image-sarcasm': 23})
+old transform Counter({'multi-sarcasm': 814, 'not-sarcasm': 787, 'image-sarcasm': 18})
+best1 Counter({'not-sarcasm': 918, 'multi-sarcasm': 683, 'image-sarcasm': 18})
+test
+transform Counter({'multi-sarcasm': 998, 'not-sarcasm': 376, 'image-sarcasm': 39})
+transform 2 Counter({'multi-sarcasm': 868, 'not-sarcasm': 534, 'image-sarcasm': 11})
+old transform Counter({'multi-sarcasm': 1003, 'not-sarcasm': 404, 'image-sarcasm': 6})
+best1 Counter({'multi-sarcasm': 873, 'not-sarcasm': 534, 'image-sarcasm': 6})
+
+
