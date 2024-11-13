@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery with Range Selector</title>
+    <style>
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+            justify-content: center;
+        }
+        .gallery-item {
+            max-width: 300px;
+            text-align: center;
+        }
+        .gallery-item img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        .caption, .label {
+            margin-top: 8px;
+            font-size: 1rem;
+            color: #555;
+        }
+        .label {
+            font-weight: bold;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Image Gallery</h1>
+
+    <!-- Range Selector Form -->
+    <div>
+        <label for="start">Start:</label>
+        <input type="number" id="start" name="start" min="0" placeholder="Start index">
+        <label for="end">End:</label>
+        <input type="number" id="end" name="end" placeholder="End index">
+        <button onclick="loadImages()">Load Images</button>
+    </div>
+
+    <div class="gallery" id="gallery"></div>
+
+    <script>
+        async function loadImages() {
+            const start = parseInt(document.getElementById('start').value) || 0;
+            const end = parseInt(document.getElementById('end').value) || 10;
+    
+            const response = await fetch('data/json/vimmsd-private-test.json'); // Adjust to your JSON file's path
+            const data = await response.json();
+    
+            const labels = await fetch('submissions_private_test/val_best_private_vintern_v1_epoch3_best2_private_vintern_v1_epoch5_not_Vintern_private_yes_no_ova_v1_epoch2_results.json')
+                .then(response => response.json())
+                .then(data => data["results"]) // Ensure "results" is the correct key
+                .catch(error => console.error('Error fetching or parsing JSON:', error));
+    
+            // Clear the gallery before rendering new images
+            const gallery = document.getElementById('gallery');
+            gallery.innerHTML = '';
+    
+            // Convert the JSON object into an array of image data
+            const images = Object.values(data);
+    
+            // Ensure the range is within the dataset bounds
+            const limitedEnd = Math.min(end, images.length);
+    
+            for (let i = start; i < limitedEnd; i++) {
+                const item = images[i];
+                
+                const div = document.createElement('div');
+                div.className = 'gallery-item';
+    
+                const img = document.createElement('img');
+                img.src = `data/test-images/${item.image}`; // Add the prefix path here
+                img.alt = item.caption;
+    
+                const caption = document.createElement('div');
+                caption.className = 'caption';
+                caption.textContent = item.caption;
+    
+                const labelDiv = document.createElement('div');
+                labelDiv.className = 'label';
+    
+                // Access the label using String(i) to convert the index to a string key
+                labelDiv.textContent = `Label: ${labels[String(i)] || 'N/A'}`; // Display the label or "N/A" if not found
+    
+                div.appendChild(img);
+                div.appendChild(caption);
+                div.appendChild(labelDiv);
+                gallery.appendChild(div);
+            }
+        }
+    </script>
+    
+    </script>
+</body>
+</html>
